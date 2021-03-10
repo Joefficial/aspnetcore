@@ -27,6 +27,6 @@ These are available in the [Visual Studio Preview](https://www.visualstudio.com/
 #### To debug daily builds using Visual Studio
 
 * *Enable Source Link support* in Visual Studio should be enabled.
-* *Enable source server support* in Visual should be enabled.
+* *Enable source server support* in Visual Studio should be enabled.
 * *Enable Just My Code* should be disabled
 * Under Symbols enable the *Microsoft Symbol Servers* setting.
